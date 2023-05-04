@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yellowsub12&label=Profile%20views&color=0e75b6&style=flat" alt="yellowsub12" /> </p>
 
-Welcome to my profile! I am a recent computer engineering graduate from Concordia University, based in the city of Montreal. Throughout my studies, I've gained experience in a variety of technical areas, including web development (full-stack), embedded programming, circuit design, OOP, and Machine Learning. These experiences have helped me hone my skills in programming, problem-solving, and collaboration. Do not hesitate to contact me for any collaboration ideas!
+Welcome to my profile! I am a recent computer engineering graduate from Concordia University, based in the city of Montreal. Throughout my studies, I've gained experience in a variety of technical areas, including web development (full-stack), embedded programming, circuit design, OOP, and Machine Learning. These experiences have helped me hone my skills in programming, problem-solving, and collaboration. Do not hesitate to contact me for any collaboration ideas! Currently learning Java Spring and Angular frameworks.
 
 
 - 📫 Reach me **alixturkman@hotmail.com**
